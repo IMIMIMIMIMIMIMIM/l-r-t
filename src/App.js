@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <PrintMyName name="곽건호"></PrintMyName>
-        <PrintMyName name="김성호"></PrintMyName>
+        <PrintMyName name="123"></PrintMyName>
+        <PrintMyName name="456"></PrintMyName>
       </header>
     </div>
   );
